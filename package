@@ -1,0 +1,9 @@
+{
+	"name": "Kenshiro-Bot"
+	"version": "1.0.0"
+	"description":"One Will Go"
+	"main": "bot.js"
+	"author": "Danny Matar"
+	"dependencies": {}
+}
+
